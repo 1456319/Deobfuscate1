@@ -1,0 +1,16 @@
+{
+  "class_mapping": {
+    "tornaco.app.thanox.lite.service.api.ShizukuServiceStub": "lyiahf.vczjk.yp9"
+  },
+  "method_mapping": {},
+  "dead_end_methods": [
+    {
+      "original_method": "forceStopPackage",
+      "reason": "Delegate class lyiahf.vczjk.yp9 is missing from the decompiled source tree. Cannot perform AST comparison to identify minified target."
+    },
+    {
+      "original_method": "killBackgroundProcesses",
+      "reason": "Method is entirely absent from the ShizukuServiceStub API definition."
+    }
+  ]
+}
